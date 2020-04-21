@@ -1,0 +1,24 @@
+{
+  "name": "mySQL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariakristiina/MySQL.Node.js.Exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariakristiina/MySQL.Node.js.Exercise/issues"
+  },
+  "homepage": "https://github.com/mariakristiina/MySQL.Node.js.Exercise#readme",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "mysql": "^2.18.1"
+  }
+}
